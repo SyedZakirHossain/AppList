@@ -1,4 +1,4 @@
-# AppList. You can find my android apps on play store by clicking the following links.Good luck.
+# You can find my android apps on play store by clicking the following links. Good luck.
 Baba Jahangir Books Collection [Technology used : Android studio sdk, java ]
 https://play.google.com/store/apps/details?id=com.abc.book&hl=en
 
