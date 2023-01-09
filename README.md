@@ -1,14 +1,14 @@
-# AppList
-Baba Jahangir Books Collection [Technology used : Android studio, java ]
+# AppList. You can find my android apps on play store by clicking the following links.Good luck.
+Baba Jahangir Books Collection [Technology used : Android studio sdk, java ]
 https://play.google.com/store/apps/details?id=com.abc.book&hl=en
 
-Bottle Spinner [Technology used : Android studio, java ]
+Bottle Spinner [Technology used : Android studio sdk, java ]
 https://play.google.com/store/apps/details?id=com.zakir.chorka2&hl=en
 
-Slot game [Technology used : Android studio, java ]
+Slot game [Technology used : Android studio sdk, java ]
 https://play.google.com/store/apps/details?id=com.zakir.slotgame&hl=en
 
-Spin Wheel [Technology used : Android studio, java ]
+Spin Wheel [Technology used : Android studio sdk, java ]
 https://play.google.com/store/apps/details?id=com.zakir.wheel2&hl=en
 
 Road Safety BD [Technology used : MIT App inventor ]
